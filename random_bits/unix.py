@@ -6,5 +6,6 @@ def random_bytes(n, true_random=False):
     with open(source, 'rb') as file:
         return file.read(n)
     
-# imprimiendo 10 bytes aleatorios
+# imprimiendo 2MB bytes aleatorios
 print(random_bytes(2048 * 1024, True).hex())
+
