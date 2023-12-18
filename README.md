@@ -36,7 +36,7 @@ En los siguientes artículos puedes leer sobre los temas que vimos en clase:
 - [Matemáticas para criptografía](https://blog.thedojo.mx/2021/12/25/matematicas-para-criptografia.html)
 - [Criptografía básica para programadores: ¿Qué es la criptografía?](https://blog.thedojo.mx/2019/11/12/criptografia-basica-para-programadores-que-es-la-criptografia.html)
 - [Recursos para aprender criptografía en 2022](https://blog.thedojo.mx/2021/12/08/recursos-para-aprender-criptografia-en-2021.html)
-- [Cifrados de Bloque](https://blog.thedojo.mx/2020/12/03/tipos-de-algoritmos-criptograficos.html
+- [Cifrados de Bloque](https://blog.thedojo.mx/2020/12/03/tipos-de-algoritmos-criptograficos.html)
 - [Cifrados de Flujo](https://blog.thedojo.mx/2021/12/12/tipos-de-algoritmos-criptograficos-cifrados-de-flujo.html)
 - [¿Qué es un hash?](https://blog.thedojo.mx/2021/12/02/algoritmos-criptograficos-que-es-un-hash.html)
 - [Las tres garantía de seguridad de un hash](https://blog.thedojo.mx/2023/08/28/las-tres-garantias-de-seguridad-de-un-hash.html)
