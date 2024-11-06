@@ -28,7 +28,6 @@ En el archivo ejemplo_urandom.txt, puedes encontrar un ejemplo de datos extraíd
 
 En la biblioteca más popular de Python, está dentro de un sub-paquete que se llama `hazmat`, que es una contracción de `hazardous materials` (materiales peligrosos). Pregunta: **¿Por qué se consideraría que usar AES-256 directamente es peligroso?**.
 
-
 ## Lecturas extra
 
 En los siguientes artículos puedes leer sobre los temas que vimos en clase:
